@@ -1,3 +1,4 @@
+//первое изменение..
 let buttonPlus = document.getElementById("buttonPlus");
 let buttonMinus = document.getElementById("buttonMinus");
 let buttonMultiPly = document.getElementById("buttonMultiPly");
