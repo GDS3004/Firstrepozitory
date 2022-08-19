@@ -1,0 +1,22 @@
+.gds-calculator {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: aliceblue;
+  padding: 20px;
+  border: black 1px solid;
+}
+
+.gds-calculator .operationButtonBlock button {
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+}
+.gds-calculator .inputsBlock .inputBlock label {
+  display: block;
+  padding: 10px;
+}
+.gds-calculator .inputsBlock .inputBlock {
+  display: inline-block;
+  padding: 10px;
+}
